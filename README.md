@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Taylor Brown.
 - 👀 I’m interested in everything programming
 - 🌱 I am doing a couple simple projects using JavaScript to further my knowledge and understanding
-- 💞️ I'm willing to collaborate on anything in Java, Javascript, or Python, as that is where most of my experience lies
+- 💞️ I'm willing to collaborate on anything using Vue.js as that is where my focus is at this time
 
 <!---
 tbrowntech/tbrowntech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
